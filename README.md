@@ -1,4 +1,4 @@
-Hello to install this program simply flash the flashable.zip in custom recovery
+Hello. To install this program simply flash the flashable.zip in custom recovery
 
 For manual installation simply extract the flashable.zip and copy sysrw_1.41 folder into /data/local/tmp
 Make the program executable: chmod +x /data/local/tmp/sysrw
