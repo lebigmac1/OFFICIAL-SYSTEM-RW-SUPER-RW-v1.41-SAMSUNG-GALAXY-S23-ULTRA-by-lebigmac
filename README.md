@@ -10,4 +10,4 @@ If you've got any questions or suggestions please visit the official SYSTEM-RW f
 
 http://www.systemrw.com
 
-EDIT: This flashable .zip is now included with my latest Ultimate DIY Custom ROM Maker (ROMmaker) app!
+EDIT: This flashable .zip is now included with my latest <b>Ultimate DIY Custom ROM Maker (ROMmaker)</b> app!
