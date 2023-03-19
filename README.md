@@ -9,3 +9,5 @@ Enjoy!
 If you've got any questions or suggestions please visit the official SYSTEM-RW for Samsung Galaxy S23 Ultra (and other devices) by lebigmac project homepage @
 
 http://www.systemrw.com
+
+EDIT: This flashable .zip is now included with my latest Ultimate DIY Custom ROM Maker (ROMmaker) app!
