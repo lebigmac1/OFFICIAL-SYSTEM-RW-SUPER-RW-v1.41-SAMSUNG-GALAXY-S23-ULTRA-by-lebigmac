@@ -6,7 +6,7 @@ Run it: <code>/data/local/tmp/sysrw_1.41/sysrw</code>
 
 Enjoy!
 
-If you've got any questions or suggestions please visit the official SYSTEM-RW for Samsung Galaxy S23 Ultra (and other devices) by lebigmac project homepage @
+If you've got any questions or suggestions please visit the official SYSTEM RW homepage @
 
 http://www.systemrw.com
 
